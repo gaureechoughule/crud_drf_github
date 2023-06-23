@@ -4,7 +4,8 @@
 django
 django-rest-framework             # from settings
 **********
-
+11111111111111111111111 -new update
+**********
 3. django-admin startproject demo
 2. python manage.py startapp app1
 3. models.py[class Book]   => [Tutorial 1: Serialization]
